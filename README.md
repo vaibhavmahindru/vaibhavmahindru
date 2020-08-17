@@ -29,3 +29,6 @@
 - 📫 How to reach me: vaibhavmahindru04@gmail.com;
   <br><br>
   ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
+  <br>
+  <br>
+  <img align="right" src="https://rushter.com/counter.svg">
