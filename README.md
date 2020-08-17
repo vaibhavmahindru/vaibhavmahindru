@@ -4,7 +4,7 @@
 
 An aspiring Full Stack Developer 🚀 from India.<br>
 If not programming, you will find me playing video games, listening songs or watching anime.
-<br><br>
+<br><br><br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
@@ -32,4 +32,5 @@ If not programming, you will find me playing video games, listening songs or wat
     <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
 <br><br>
+
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
