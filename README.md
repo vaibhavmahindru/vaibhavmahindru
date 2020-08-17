@@ -4,7 +4,8 @@
 
 An aspiring Full Stack Developer 🚀 from India.<br>
 If not programming, you will find me playing video games, listening songs or watching anime.
-<
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 - 🔭 I’m a Frontend Developer.
 - 🧠 I’m currently learning everything.
@@ -14,8 +15,6 @@ If not programming, you will find me playing video games, listening songs or wat
 - 🤔 I’m looking for help with backend services and API's.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: vaibhavmahindru04@gmail.com;
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 ## Connect with me:
 
