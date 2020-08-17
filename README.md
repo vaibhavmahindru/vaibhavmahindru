@@ -18,7 +18,6 @@
 
 <br/>
 
-<br>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" width="400" height="250" />
 <br><br>
 
@@ -30,5 +29,3 @@
   <br><br>
   ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
   <br>
-  <br>
-  <img align="right" src="https://rushter.com/counter.svg">
