@@ -4,11 +4,7 @@
 
 An aspiring Full Stack Developer 🚀 from India.<br>
 If not programming, you will find me playing video games, listening songs or watching anime.
-<br><br>
-
-<!--<img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif"  />-->
-
-<br><br>
+<
 
 - 🔭 I’m a Frontend Developer.
 - 🧠 I’m currently learning everything.
@@ -18,11 +14,11 @@ If not programming, you will find me playing video games, listening songs or wat
 - 🤔 I’m looking for help with backend services and API's.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: vaibhavmahindru04@gmail.com;
-  <br><br>
 
-  ## Connect with me:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
-    <br>
+## Connect with me:
+
   <a href="https://www.instagram.com/vaibhav_mahindru/">
     <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
@@ -36,6 +32,4 @@ If not programming, you will find me playing video games, listening songs or wat
     <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
 
-<br>
-  
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
