@@ -34,3 +34,5 @@ If not programming, you will find me playing video games, listening songs or wat
 <br><br>
 
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
+
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru)
