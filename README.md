@@ -32,5 +32,6 @@ An aspiring Full Stack Developer 🚀 from India. 👨🏽‍💻 [@PlusInfinity
   </a>
 
 <br/>
+<br>
   ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
   <br>
