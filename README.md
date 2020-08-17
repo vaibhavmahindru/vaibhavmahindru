@@ -2,7 +2,8 @@
 
 ### Hi there, !'m Vaibhav Mahindru 👋
 
-An aspiring Full Stack Developer 🚀 from India. 👨🏽‍💻 [@PlusInfinityLabs](#). Beside's programming, I enjoy playing video gamestraveling.
+An aspiring Full Stack Developer 🚀 from India.
+If not programming, you will find me playing video games or listening songs or watching anime.
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" width="400" height="250" />
 <br><br>
