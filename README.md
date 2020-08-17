@@ -17,7 +17,7 @@
 <br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=vaibhavmahindru.vaibhavmahindru)
 
-<br><br>
+<br>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" width="400" height="250" />
 <br><br>
 
