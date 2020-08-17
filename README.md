@@ -31,10 +31,11 @@ If not programming, you will find me playing video games, listening songs or wat
   <a href="https://www.codechef.com/users/vaibhav2704">
     <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
-<br><br>
+<br><br><br>
 
 <!--![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)-->
 
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&theme=cobalt)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&theme=cobalt&layout=compact)
