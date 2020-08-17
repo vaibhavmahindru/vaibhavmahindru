@@ -12,10 +12,13 @@
 <a href="https://www.hackerrank.com/vaibhumahindru27">
   <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
+<a href="https://www.codechef.com/users/vaibhav2704">
+  <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 
 <br/>
 <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=vaibhavmahindru.vaibhavmahindru)
+![](https://visitor-badge.glitch.me/badge?page_id=vaibhavmahindru/vaibhavmahindru)
 
 <br>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" width="400" height="250" />
