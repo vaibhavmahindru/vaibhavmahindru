@@ -16,10 +16,10 @@
 <br/>
 <br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=vaibhavmahindru.vaibhavmahindru)
-<br>
-[![HitCount](http://hits.dwyl.com/vaibhavmahindru/vaibhavmahindru/READMEmd.svg)](http://hits.dwyl.com/vaibhavmahindru/vaibhavmahindru/READMEmd)
+
 <br><br>
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif?cid=ecf05e47haz0zlt3djhwvqlgy5rksiskd6797m5v6pskrtvc&rid=giphy.gif" />
+<br><br>
 
 - 🔭 I’m a Frontend Developer.
 - 👯 I’m looking to collaborate on full stack projects.
