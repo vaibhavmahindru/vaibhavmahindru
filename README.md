@@ -4,6 +4,7 @@
 
 An aspiring Full Stack Developer 🚀 from India.<br>
 If not programming, you will find me playing video games, listening songs or watching anime.
+<br><br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
@@ -14,7 +15,7 @@ If not programming, you will find me playing video games, listening songs or wat
 - 💬 Ask me about : Web development stuff, Anime, Movies, Songs.
 - 🤔 I’m looking for help with backend services and API's.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: vaibhavmahindru04@gmail.com;
+- 📫 How to reach me: vaibhavmahindru04@gmail.com
 
 ## Connect with me:
 
@@ -30,5 +31,5 @@ If not programming, you will find me playing video games, listening songs or wat
   <a href="https://www.codechef.com/users/vaibhav2704">
     <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
-
+<br><br>
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)
