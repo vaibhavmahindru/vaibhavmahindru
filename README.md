@@ -4,7 +4,7 @@
 
 <!--An aspiring Full Stack Developer 🚀 from India.<br>-->
 
-# If not programming, you will find me playing video games, listening songs or watching anime.
+##### If not programming, you will find me playing video games, listening songs or watching anime.
 
 <br><br><br>
 
