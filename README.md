@@ -3,7 +3,8 @@
 ### Hi there, !'m Vaibhav Mahindru 👋
 
 <!--An aspiring Full Stack Developer 🚀 from India.<br>-->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmahindru" alt="vaibhavmahindru" /> </p>
+<br>
 #### If not programming, you will find me playing video games, listening songs or watching anime.
 
 <br><br><br>
