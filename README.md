@@ -12,12 +12,12 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
-- 🔭 I’m a Frontend Developer.
+- 🔭 I’m a Fullstack Developer.
 - 🧠 I’m currently learning everything.
 - 👯 I’m looking to collaborate on full stack projects.
 - 👨🏽‍💻 I'm a competitive programmer.
 - 💬 Ask me about : Web development stuff, Anime, Movies, Songs.
-- 🤔 I’m looking for help with backend services and API's.
+- 🤔 I’m looking for help with backend services.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: vaibhavmahindru04@gmail.com
 
