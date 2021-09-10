@@ -37,9 +37,3 @@
   </a>
 <br><br><br>
 
-<!--![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=cobalt)-->
-
-![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&theme=cobalt)
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&theme=cobalt&layout=compact)
