@@ -27,19 +27,5 @@
   </p>
   <br><br>
 
-## Connect with me:
-
-  <a href="https://www.instagram.com/vaibhav_mahindru/">
-    <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-mahindru-845604175/">
-    <img align="left" alt="Vaibhav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/vaibhumahindru27">
-    <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-  </a>
-  <a href="https://www.codechef.com/users/vaibhav2704">
-    <img align="left" alt="Vaibhav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-  </a>
 <br><br><br>
 
