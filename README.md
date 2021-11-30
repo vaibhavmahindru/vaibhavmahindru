@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: vaibhavmahindru04@gmail.com
 <br><br><br>
-<p align="center">
+<p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   </p>
