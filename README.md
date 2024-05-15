@@ -12,24 +12,17 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
-- 🔭 I’m a Fullstack Developer.
+- 🔭 I’m a Data & Business Analyst.
 - 🧠 I’m currently learning everything.
-- 👯 I’m looking to collaborate on full stack projects.
+- 👯 I’m looking to collaborate on Analytical projects.
 - 👨🏽‍💻 I'm a competitive programmer.
-- 💬 Ask me about : Web development stuff, Anime, Movies, Songs.
-- 🤔 I’m looking for help with backend services.
+- 💬 Ask me about :Python, SQL, Excel, Power BI, Data Analysis stuff, EDA, Anime, Movies, Songs.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: vaibhavmahindru04@gmail.com
 <br><br><br>
 
 <br><br><br>
 
-<p align="center">
-
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=vaibhavmahindru&theme=darcula&hide_border=true&background=FFFFFF00">
-  
-  </p>
-  <br><br>
 
 <br><br><br>
 
