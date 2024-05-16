@@ -1,11 +1,8 @@
-<img src="https://github.com/vaibhavmahindru/vaibhavmahindru/blob/master/hello.gif" alt="alt text" width="250" height="200" />
+<img align="center" src="https://github.com/vaibhavmahindru/vaibhavmahindru/blob/master/hello.gif" alt="alt text" width="250" height="200" />
 
 ### Hi there, !'m Vaibhav Mahindru 👋
 
 #### If not programming, you will find me playing video games, listening songs or watching anime.
-
-<br><br><br>
-
 
 
 - 🔭 I’m a Data & Business Analyst.
@@ -16,7 +13,7 @@
 - 📫 You can reach out to me via LinkedIn (https://www.linkedin.com/in/vaibhav-mahindru-845604175/) or mail me at : vaibhavmahindru04@gmail.com
 
 <br><br><br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 <br><br><br>
 
