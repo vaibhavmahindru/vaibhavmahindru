@@ -4,8 +4,7 @@
 
 #### If not programming, you will find me playing video games, listening songs or watching anime.
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
-<br>
+
 - 🔭 &nbsp; I’m a Data & Business Analyst.
 - 🧠 &nbsp; I’m currently learning everything.
 - 🤝 &nbsp; I’m looking to collaborate on PYTHON, SQL, EXCEL, EDA, POWER BI, AZURE, HTML, CSS and JAVASCRIPT.
@@ -14,8 +13,6 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-mahindru-845604175/) or mail me at [vaibhavmahindru04@gmail.com](mailto:vaibhavmahindru04@gmail.com) :)
 - 😊 &nbsp; Open for freelancing gigs.
 
-<br><br><br>
-
-
-<br><br><br>
-
+<br><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+<br>
