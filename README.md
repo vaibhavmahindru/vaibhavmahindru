@@ -13,6 +13,3 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-mahindru-845604175/) or mail me at [vaibhavmahindru04@gmail.com](mailto:vaibhavmahindru04@gmail.com) :)
 - 😊 &nbsp; Open for freelancing gigs.
 
-<br><br>
-[<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />]
-<br>
