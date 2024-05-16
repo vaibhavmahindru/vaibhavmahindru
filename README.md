@@ -6,7 +6,7 @@
 
 <br><br><br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+
 
 - 🔭 I’m a Data & Business Analyst.
 - 🧠 I’m currently learning everything.
@@ -16,7 +16,7 @@
 - 📫 You can reach out to me via LinkedIn (https://www.linkedin.com/in/vaibhav-mahindru-845604175/) or mail me at : vaibhavmahindru04@gmail.com
 
 <br><br><br>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 <br><br><br>
 
