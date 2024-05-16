@@ -14,5 +14,5 @@
 - 😊 &nbsp; Open for freelancing gigs.
 
 <br><br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+[<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />]
 <br>
