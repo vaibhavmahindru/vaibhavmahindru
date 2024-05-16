@@ -2,10 +2,6 @@
 
 ### Hi there, !'m Vaibhav Mahindru 👋
 
-<!--An aspiring Full Stack Developer 🚀 from India.<br>-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmahindru" alt="vaibhavmahindru" /> </p>
-<br>
-
 #### If not programming, you will find me playing video games, listening songs or watching anime.
 
 <br><br><br>
@@ -14,15 +10,16 @@
 
 - 🔭 I’m a Data & Business Analyst.
 - 🧠 I’m currently learning everything.
-- 👯 I’m looking to collaborate on Analytical projects.
-- 👨🏽‍💻 I'm a competitive programmer.
-- 💬 Ask me about :Python, SQL, Excel, Power BI, Data Analysis stuff, EDA, Anime, Movies, Songs.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: vaibhavmahindru04@gmail.com
-<br><br><br>
+- 🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL, EDA, and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU
+- 👩‍💻 In my free time, I help other data analysts make sense of their data.
+- 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
+- 📫 You can reach out to me via LinkedIn (https://www.linkedin.com/in/vaibhav-mahindru-845604175/) or mail me at : vaibhavmahindru04@gmail.com
 
 <br><br><br>
 
 
 <br><br><br>
+
+
+
 
