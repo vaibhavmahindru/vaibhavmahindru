@@ -3,8 +3,9 @@
 ### Hi there, !'m Vaibhav Mahindru 👋
 
 #### If not programming, you will find me playing video games, listening songs or watching anime.
-
+<br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+<br>
 - 🔭 &nbsp; I’m a Data & Business Analyst.
 - 🧠 &nbsp; I’m currently learning everything.
 - 🤝 &nbsp; I’m looking to collaborate on PYTHON, SQL, EXCEL, EDA, POWER BI, AZURE, HTML, CSS and JAVASCRIPT.
