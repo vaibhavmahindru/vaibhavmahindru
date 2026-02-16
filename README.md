@@ -1,96 +1,72 @@
-<!-- Custom Header Banner -->
+<!-- Dark Cyberpunk Anime Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Vaibhav%20Mahindru&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Telemetry%20%E2%86%92%20Intelligence&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h2 align="center">⚔️ Backend Architect • Data Engineer • Systems Builder</h2>
-
+<h2 align="center">Vaibhav Mahindru</h2>
 <p align="center">
-Designing production-grade systems that process telemetry, financial transactions, and real-world data.
-</p>
-
----
-
-## 🧠 Engineering Focus
-
-- Scalable REST platforms (Node.js + Express)
-- Relational schema design (60+ models)
-- ETL & reconciliation pipelines (Python + SQL)
-- Multi-tenant architectures
-- AI-assisted analytics engines
-- Webhook & third-party orchestration
-
----
-
-## 🔌 External Integrations
-
-Production systems I’ve integrated:
-
-- 🛰 GPS / Telemetry APIs (Intangles)
-- 💬 WhatsApp Business API (automated alerts)
-- 💳 Payment Gateway integrations (transaction state + reconciliation)
-- 🤖 Gemini API & DeepSeek
-- 🔁 Event-driven webhooks
-
-Real systems talk to other systems.
-
----
-
-## ☁️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
-
+Backend Architect • Data Engineer • Platform Builder
 </p>
 
 ---
 
-## 🚛 Current Mission — MoveAI
-
-Founder & Backend Architect  
-
-Building a logistics analytics platform with:
-
-- High-frequency telemetry ingestion  
-- Driver settlement engine  
-- Financial reconciliation pipelines  
-- Scheduled batch processors  
-- AI-powered natural language querying  
-
-Telemetry → Data Models → Financial Logic → Insight.
-
----
-
-## 📊 GitHub Intelligence
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&theme=tokyonight&hide_border=true"/>
+I design production-grade backend systems that transform real-world telemetry and financial transactions into structured intelligence.
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## ⚙️ Core Engineering
+
+- Scalable REST platforms (Node.js + Express)  
+- Relational schema design (60+ models)  
+- ETL & reconciliation pipelines (Python + SQL)  
+- Multi-tenant architectures  
+- Financial settlement engines  
+- AI-assisted analytics systems  
+
+---
+
+## 🔌 Third-Party Integrations
+
+- GPS / Telemetry APIs (Intangles)  
+- WhatsApp Business API (automated messaging & alerts)  
+- Payment Gateway integrations (transaction state + reconciliation)  
+- Webhook-driven external orchestration  
+- Gemini API & DeepSeek  
+
+Production systems don’t operate in isolation. They coordinate.
+
+---
+
+## ☁️ Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
 </p>
 
 ---
 
-## 🎮 Side Mode
+## 🚛 Current Build — MoveAI
 
-Gaming • Music • Anime  
+Multi-tenant logistics analytics platform featuring:
 
-Because every systems architect needs recovery cycles.
+Telemetry ingestion → Driver settlement → Financial reconciliation → AI-powered querying
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
 <p align="center">
-“Engineer for failure. Automate the repeatable. Let data speak.”
+“Engineer for failure. Design for scale. Let data tell the truth.”
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 </p>
