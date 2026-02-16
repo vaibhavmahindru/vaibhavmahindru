@@ -46,12 +46,7 @@ Production > Demos
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VaibhavMahindru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMahindru&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavMahindru&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavmahindru&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ---
