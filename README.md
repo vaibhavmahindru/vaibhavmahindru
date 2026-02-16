@@ -1,107 +1,96 @@
-<!-- Animated Typing Header -->
+<!-- Custom Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7C331&center=true&vCenter=true&width=800&lines=Vaibhav+Mahindru;Backend+Developer+%7C+Data+Engineer;Building+Scalable+Systems;Telemetry+%E2%86%92+Data+%E2%86%92+Intelligence" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Vaibhav%20Mahindru&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/vaibhavmahindru/vaibhavmahindru/blob/master/hello.gif" width="260" />
-</p>
-
-<h2 align="center">⚡ Systems Architect in a Distributed World</h2>
+<h2 align="center">⚔️ Backend Architect • Data Engineer • Systems Builder</h2>
 
 <p align="center">
-Backend Developer • Data Engineer • Platform Builder
+Designing production-grade systems that process telemetry, financial transactions, and real-world data.
 </p>
 
 ---
 
-## 🧠 System Overview
+## 🧠 Engineering Focus
 
-I design and build production-grade backend systems that process real-world telemetry, financial transactions, and business data at scale.
-
-Core focus:
-- Scalable REST architectures (Node.js + Express)
-- Relational data modeling (60+ schemas)
+- Scalable REST platforms (Node.js + Express)
+- Relational schema design (60+ models)
 - ETL & reconciliation pipelines (Python + SQL)
-- Multi-tenant platform engineering
-- AI-assisted analytics systems
+- Multi-tenant architectures
+- AI-assisted analytics engines
+- Webhook & third-party orchestration
 
 ---
 
-## 🔌 Third-Party Integrations
+## 🔌 External Integrations
 
-I work extensively with external systems and real-world APIs:
+Production systems I’ve integrated:
 
 - 🛰 GPS / Telemetry APIs (Intangles)
-- 💬 WhatsApp Business API (automated messaging & alerts)
+- 💬 WhatsApp Business API (automated alerts)
 - 💳 Payment Gateway integrations (transaction state + reconciliation)
-- 🔁 Webhook-driven architectures
-- 🤖 Gemini API & DeepSeek (AI-powered analytics)
+- 🤖 Gemini API & DeepSeek
+- 🔁 Event-driven webhooks
 
-Production systems don’t live in isolation. They orchestrate.
+Real systems talk to other systems.
 
 ---
 
-## ☁️ Tech Arsenal
+## ☁️ Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-API-black?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Data-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
 
 </p>
 
 ---
 
-## 🚛 Current Arc — MoveAI
+## 🚛 Current Mission — MoveAI
 
 Founder & Backend Architect  
 
-Building a logistics analytics platform featuring:
-- High-frequency telemetry ingestion
-- Driver settlement engine
-- Financial reconciliation pipelines
-- Batch + scheduled processing
-- AI-powered natural language querying
+Building a logistics analytics platform with:
 
-Telemetry → Structured Data → Financial Logic → Insight.
+- High-frequency telemetry ingestion  
+- Driver settlement engine  
+- Financial reconciliation pipelines  
+- Scheduled batch processors  
+- AI-powered natural language querying  
+
+Telemetry → Data Models → Financial Logic → Insight.
 
 ---
 
-## 📊 GitHub Telemetry
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmahindru&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 👁 Profile Views
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavmahindru&label=Profile%20Views&color=yellow&style=flat" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🎮 Side Quest Mode
+## 🎮 Side Mode
 
 Gaming • Music • Anime  
 
-Because even backend engineers need cooldown cycles.
+Because every systems architect needs recovery cycles.
 
 ---
 
 <p align="center">
-“Build systems that survive failure. Engineer data that tells the truth.”
+“Engineer for failure. Automate the repeatable. Let data speak.”
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer"/>
 </p>
