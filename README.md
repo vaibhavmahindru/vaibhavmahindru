@@ -1,158 +1,107 @@
-<img src="https://github.com/vaibhavmahindru/vaibhavmahindru/blob/master/hello.gif" alt="hello animation" width="250" height="200" />
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7C331&center=true&vCenter=true&width=800&lines=Vaibhav+Mahindru;Backend+Developer+%7C+Data+Engineer;Building+Scalable+Systems;Telemetry+%E2%86%92+Data+%E2%86%92+Intelligence" />
+</p>
 
-# 👋 Hi, I'm Vaibhav Mahindru  
-**Backend Software Developer • Data Engineer • Systems Architect**
+<p align="center">
+  <img src="https://github.com/vaibhavmahindru/vaibhavmahindru/blob/master/hello.gif" width="260" />
+</p>
 
-I build and ship **scalable backend systems, automated data platforms, and real-world data processing engines** that turn raw telemetry and fragmented operational data into structured intelligence.
+<h2 align="center">⚡ Systems Architect in a Distributed World</h2>
 
----
-
-## 🧠 What I Build
-
-I’m passionate about backend engineering, distributed data pipelines, and building systems that operate reliably in production.
-
-Here’s the kind of work I focus on:
-
-- **Architecting and building backend platforms** using Node.js / Express  
-- **Designing relational data models** optimized for performance and analytics  
-- **Building ETL and reconciliation pipelines** for high-throughput data ingestion  
-- **Integrating external systems** like telemetry APIs (Intangles), WhatsApp notifications, and payment gateways  
-- **Deploying cloud infrastructure** and automated workflows on AWS, Azure, and GCP  
-- **Engineering AI-assisted analytics systems** for natural-language data exploration
+<p align="center">
+Backend Developer • Data Engineer • Platform Builder
+</p>
 
 ---
 
-## 🚀 Core Technical Strengths
+## 🧠 System Overview
 
-### 🛠 Backend & Platform Engineering
-`Node.js`, `Express.js`, `Layered Architecture`, `57+ REST Endpoints`, `Microservices-style Routing`, `JWT Authentication`, `RBAC`, `Background Workers`
+I design and build production-grade backend systems that process real-world telemetry, financial transactions, and business data at scale.
 
-### 🧬 Data Engineering & Processing
-`Python`, `SQL`, `ETL Pipelines`, `Data Validation`, `Idempotent Processing`, `Deduplication`, `Reconciliation Logic`
-
-### 🗄 Database Engineering
-`PostgreSQL`, `MySQL`, `Composite Indexing`, `Query Optimization`, `Schema Design (65+ Models)`, `Aggregation Tuning`
-
-### 🔌 API Integration & Messaging
-`Third-Party API Integration`, `GPS APIs (Intangles)`, `WhatsApp Business API`, `Payment Gateway Integration`, `Webhooks`
-
-### ☁️ Cloud & DevOps
-`AWS (EC2, RDS, S3)`, `Azure`, `GCP fundamentals`, `Docker`, `GitHub Actions`, `CI/CD Pipelines`, `Linux`
-
-### 🤖 AI & Analytics
-`Google Gemini API`, `DeepSeek`, `AI-Driven SQL Generation`, `Power BI`, `Operational Dashboards`, `Business Reporting`
+Core focus:
+- Scalable REST architectures (Node.js + Express)
+- Relational data modeling (60+ schemas)
+- ETL & reconciliation pipelines (Python + SQL)
+- Multi-tenant platform engineering
+- AI-assisted analytics systems
 
 ---
 
-## 🏗 Systems & Platforms I’ve Built
+## 🔌 Third-Party Integrations
 
-### 🚛 MoveAI — Logistics & Analytics Platform
-**Status:** Production | **Role:** Founder & Backend Architect  
+I work extensively with external systems and real-world APIs:
 
-A multi-tenant logistics SaaS platform with:
-- High-frequency GPS telemetry ingestion
-- Driver settlement and reconciliation engines
-- Batch and streaming pipelines (9+ scheduled jobs)
-- AI-assisted analytics (VaYu) using LLMs
-- Cloud deployment with AWS RDS / S3
+- 🛰 GPS / Telemetry APIs (Intangles)
+- 💬 WhatsApp Business API (automated messaging & alerts)
+- 💳 Payment Gateway integrations (transaction state + reconciliation)
+- 🔁 Webhook-driven architectures
+- 🤖 Gemini API & DeepSeek (AI-powered analytics)
 
-**Tech:** Node.js, Express, PostgreSQL, Python, AWS, Gemini API
+Production systems don’t live in isolation. They orchestrate.
 
 ---
 
-### 📍 Automated GPS Alert Processor
-**Status:** Active | **Role:** Data Pipeline Engineer  
+## ☁️ Tech Arsenal
 
-Daily cron-based pipeline that:
-- Fetches previous-day GPS data from external providers
-- Processes per-vehicle alerts
-- Maps alerts to the assigned driver
-- Stores structured results for reporting and dashboards
+<p align="center">
 
-**Tech:** Python, REST APIs, PostgreSQL
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-API-black?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Data-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
----
-
-### 🤖 AI Data Analyst
-**Status:** Active | **Role:** Full-Stack AI Integrator  
-
-Streamlit app for intelligent CSV/XLSX analysis:
-- Upload files and get **AI-generated data summaries**
-- Schema-aware prompts for accurate insights
-- Integrates Gemini/DeepSeek for natural-language analysis
-
-**Tech:** Python, Streamlit, Gemini / DeepSeek, Pandas
+</p>
 
 ---
 
-### 🌐 Frontend Projects
-- **EcoFluid Engineering** – Production corporate site  
-  https://ecofluidengg.com/
+## 🚛 Current Arc — MoveAI
 
-- **Rack & Roll** – Frontend demo & static deployment  
-  https://rackandroll.netlify.app/
+Founder & Backend Architect  
 
-- **TheraChef** – UI-focused web project  
-  https://spectacular-puppy-11875e.netlify.app/
+Building a logistics analytics platform featuring:
+- High-frequency telemetry ingestion
+- Driver settlement engine
+- Financial reconciliation pipelines
+- Batch + scheduled processing
+- AI-powered natural language querying
 
----
-
-## 📌 Professional Journey
-
-1. **Computer Science Student & Systems Builder**  
-   *2018 – 2022, New Delhi, India*  
-   Built REST APIs, automation scripts, and early backend systems while mastering fundamental CS and database engineering.
-
-2. **Software Developer — Satyacom**  
-   *2023 – 2024*  
-   Created production backend services, modular APIs, and export/reporting modules.
-
-3. **Software Developer (DataOps) — AIS**  
-   *2022 – 2023*  
-   Built enterprise ingestion pipelines, led on-prem to Azure migrations, and developed Power BI dashboards.
-
-4. **IT Business Analyst — Plaksha University**  
-   *2024 – 2025*  
-   Translated business needs into SQL workflows, automated ETL pipelines, and designed dynamic dashboards.
-
-5. **Founder & Backend Architect — MoveAI**  
-   *2024 – Present*  
-   Architected and shipped a data-intensive logistics platform from idea to production.
+Telemetry → Structured Data → Financial Logic → Insight.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Telemetry
 
-Let’s build something impactful or discuss distributed systems, APIs, or backend platforms.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmahindru&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-LinkedIn — https://www.linkedin.com/in/vaibhav-mahindru-845604175/  
-Email — vaibhavmahindru04@gmail.com  
-
----
-
-## 🧩 Fun (But True 😄)
-
-When I’m not building backend pipelines or parsing telemetry data, you’ll find me:
-
-🎮 Playing video games  
-🎵 Listening to music  
-📺 Watching anime
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 💡 My Dev Philosophy
+## 👁 Profile Views
 
-> Build with intent.  
-> Automate the repeatable.  
-> Design systems that survive failure and tell true stories through data.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavmahindru&label=Profile%20Views&color=yellow&style=flat" />
+</p>
 
 ---
 
-If you want, I can also generate:
+## 🎮 Side Quest Mode
 
-✨ A **GitHub profile banner** and **SVG cards** to match this README  
-✨ A **pinned repos strategy** that aligns this intro with your code base  
-✨ A visual **architecture diagram** for MoveAI that you can embed right here  
+Gaming • Music • Anime  
 
-Just say the word. 🚀
-::contentReference[oaicite:0]{index=0}
+Because even backend engineers need cooldown cycles.
+
+---
+
+<p align="center">
+“Build systems that survive failure. Engineer data that tells the truth.”
+</p>
