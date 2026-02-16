@@ -1,108 +1,108 @@
-<!-- HERO: SYSTEM SUMMON SCREEN -->
+<!-- CONTROL ROOM HEADER -->
 <p align="center">
-  <img width="500" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;Class:+Backend+Architect;Realm:+Telemetry+%E2%86%92+Intelligence;Level:+⧗+DEPLOYED" />
-</p>
-
-<p align="center">
-  <img width="240" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Vaibhav+Mahindru;Backend+Systems+Builder;Turning+Messy+Data+into+Signal;Automation+Enthusiast;Shipping+to+Production" />
 </p>
 
 ---
 
-## 🎴 CHARACTER DATA
+## 🛰️ who am i?
 
-┌──────────────────────────────────────────────────┐
-│ Name : Vaibhav Mahindru │
-│ Class : Backend Systems Architect │
-│ Realm : Cloud + Data + High-Availability │
-│ Alignment : Telemetry → Intelligence │
-│ Status : Active Deployment (MoveAI) │
-│ XP : 3+ yrs backend & data systems │
-└──────────────────────────────────────────────────┘
+I build systems that take chaos and make it useful.
 
+Messy telemetry.  
+Broken workflows.  
+Unstructured data.  
+
+I wire them together, automate the boring parts, debug the ugly parts, and ship the whole thing to production.
+
+I enjoy:
+- Building pipelines
+- Debugging complex failures
+- Integrating systems that weren’t meant to talk
+- Watching data slowly start making sense
+
+If it runs in production and survives failure — I like it.
 
 ---
 
-## ⚙️ CORE PROFICIENCIES
+## ⚙️ what I actually work on
 
-✨ *Battle-tested tools and systems skills:*
+- Backend platforms (Node.js + Express)
+- Data pipelines (Python + SQL)
+- Schema design (60+ relational models)
+- Financial settlement & reconciliation logic
+- Multi-tenant system architecture
+- Cloud deployments (AWS / Azure / GCP)
+- AI-assisted querying (LLMs + structured data)
+
+Telemetry → Models → Automation → Intelligence.
+
+---
+
+## 🧠 skill surface
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions,powerbi" />
-</p>
-
-| Domain | Expertise |
-|--------|-----------|
-| **Backend** | Node.js, Express, REST APIs, RBAC, JWT |
-| **Data Platform** | Python ETL, SQL, Data Validation, Aggregation |
-| **Databases** | PostgreSQL, MySQL, Indexing, Query Tuning |
-| **Cloud Infra** | AWS (EC2/RDS/S3), Azure, GCP fundamentals |
-| **DevOps** | Docker, CI/CD (GitHub Actions), Server Automation |
-| **AI Systems** | Gemini API, DeepSeek, AI-Driven SQL |
-
----
-
-## 🏯 CURRENT BUILD (MoveAI)
-
-A logistics backend platform with:
-
-➡ High-frequency telemetry ingestion  
-➡ Driver settlement + reconciliation engine  
-➡ Financial pipeline data modeling  
-➡ Batch processors + scheduling logic  
-➡ AI-assisted analytics (natural language)
-
-Telemetry → Data Models → Financial Logic → Insight.
-
----
-
-## 📌 PROJECT PORTFOLIO
-
-| Project | Role | Tech | Status |
-|---------|------|------|--------|
-| **MoveAI** | Founder & Architect | Node.js, Python, PostgreSQL, AWS, Gemini | Production |
-| **AI Data Analyst** | Developer | Streamlit, Gemini, Pandas | Active |
-| **GPS Alert Pipeline** | Automation | Python, REST APIs, PostgreSQL | Production |
-| **TheraChef Website** | Full-Stack | React, Netlify | Deployed |
-| **EcoFluid Engineering** | Web Dev | HTML/CSS, Deploy | Live |
-| **Rack & Roll** | Frontend | React, Netlify | Live |
-
----
-
-## 📊 GITHUB PROFILE INSIGHTS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
 </p>
 
 ---
 
-## 🌌 BACKGROUND LOG
+## 🚀 current build: MoveAI
 
-**2018–2022 | Initiation → Systems Foundations**  
-Studied CS fundamentals while building backend APIs & automation projects.
+A logistics analytics system where:
 
-**2022–2023 | DataOps & Cloud Migration**  
-Enterprise ingress pipelines and Azure migrations (@AIS).
+- GPS telemetry flows in  
+- Drivers get settlements calculated  
+- Financial data reconciles cleanly  
+- Batch jobs run without drama  
+- AI answers business questions  
 
-**2023–2024 | Backend Services & Modular APIs**  
-REST systems and reporting features (@Satyacom).
+It’s not a demo project.  
+It’s deployed.  
 
-**2024–2025 | Data Systems & Business Analytics**  
-ETL automation and Power BI dashboards (@Plaksha).
-
-**2024–Present | MoveAI Founder**  
-Architected and deployed telemetry analytics + batch pipelines + settlement systems.
+That’s the fun part.
 
 ---
 
-## 📡 CONNECT & COLLABORATE
+## 📊 system stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-mahindru-845604175/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vaibhavmahindru04@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
-> 🛡️ *Engineer for failure. Design for scale. Let data tell the truth.*
+## 🎧 currently listening to
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+</p>
+
+---
+
+## 🧩 outside the control room
+
+When I’m not wiring backend systems together:
+
+- 🎵 Music on loop  
+- 📺 Anime marathons  
+- 📚 Manga dives  
+- 🎬 Movies  
+- 🛠 Random DIY experiments  
+
+I like building things.  
+Digital or physical — doesn’t matter.
+
+---
+
+## 🧪 philosophy
+
+Automate what repeats.  
+Debug what breaks.  
+Ship what matters.  
+Let data speak.
+
+If you’re reading this and thinking,  
+“how did he build that?”  
+
+Good.
