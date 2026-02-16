@@ -1,45 +1,25 @@
-<!-- CONTROL ROOM HEADER -->
+<!-- TOP CAPSULE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Vaibhav+Mahindru;Backend+Systems+Builder;Turning+Messy+Data+into+Signal;Automation+Enthusiast;Shipping+to+Production" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Vaibhav%20Mahindru&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  Backend Systems Builder • Automation Enthusiast • Data Pipeline Architect
 </p>
 
 ---
 
-## 🛰️ who am i?
+## 🛰️ About
 
-I build systems that take chaos and make it useful.
-
-Messy telemetry.  
-Broken workflows.  
-Unstructured data.  
-
-I wire them together, automate the boring parts, debug the ugly parts, and ship the whole thing to production.
-
-I enjoy:
-- Building pipelines
-- Debugging complex failures
-- Integrating systems that weren’t meant to talk
-- Watching data slowly start making sense
-
-If it runs in production and survives failure — I like it.
+<p align="center">
+I build systems that take chaos and turn it into signal.<br>
+Telemetry, settlements, pipelines, schema design.<br>
+If it survives production traffic and edge cases — I like it.
+</p>
 
 ---
 
-## ⚙️ what I actually work on
-
-- Backend platforms (Node.js + Express)
-- Data pipelines (Python + SQL)
-- Schema design (60+ relational models)
-- Financial settlement & reconciliation logic
-- Multi-tenant system architecture
-- Cloud deployments (AWS / Azure / GCP)
-- AI-assisted querying (LLMs + structured data)
-
-Telemetry → Models → Automation → Intelligence.
-
----
-
-## 🧠 skill surface
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
@@ -47,62 +27,44 @@ Telemetry → Models → Automation → Intelligence.
 
 ---
 
-## 🚀 current build: MoveAI
-
-A logistics analytics system where:
-
-- GPS telemetry flows in  
-- Drivers get settlements calculated  
-- Financial data reconciles cleanly  
-- Batch jobs run without drama  
-- AI answers business questions  
-
-It’s not a demo project.  
-It’s deployed.  
-
-That’s the fun part.
-
----
-
-## 📊 system stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmahindru&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎧 currently listening to
+## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+  <img src="https://komarev.com/ghpvc/?username=vaibhavmahindru&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧩 outside the control room
+## 🤝 Connect
 
-When I’m not wiring backend systems together:
-
-- 🎵 Music on loop  
-- 📺 Anime marathons  
-- 📚 Manga dives  
-- 🎬 Movies  
-- 🛠 Random DIY experiments  
-
-I like building things.  
-Digital or physical — doesn’t matter.
+<p align="center">
+  <a href="https://github.com/vaibhavmahindru">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧪 philosophy
+<p align="center">
+Automate what repeats. Debug what breaks. Ship what matters.
+</p>
 
-Automate what repeats.  
-Debug what breaks.  
-Ship what matters.  
-Let data speak.
-
-If you’re reading this and thinking,  
-“how did he build that?”  
-
-Good.
+<!-- BOTTOM CAPSULE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
