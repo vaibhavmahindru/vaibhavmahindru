@@ -1,45 +1,35 @@
-<!-- Dark Cyberpunk Anime Banner -->
+<!-- Isekai System Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Telemetry%20%E2%86%92%20Intelligence&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZING...;Class+Assigned:+Backend+Architect;Skill+Unlocked:+Telemetry+→+Intelligence;Welcome,+Vaibhav+Mahindru" />
 </p>
 
-<h2 align="center">Vaibhav Mahindru</h2>
 <p align="center">
-Backend Architect • Data Engineer • Platform Builder
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260"/>
+</p>
+
+<h2 align="center">🧭 Status Panel</h2>
+
+<p align="center">
+Name: Vaibhav Mahindru  
+Class: Backend Systems Architect  
+Affinity: Data • Distributed Systems • Automation  
+Realm: Cloud Infrastructure  
 </p>
 
 ---
 
-<p align="center">
-I design production-grade backend systems that transform real-world telemetry and financial transactions into structured intelligence.
-</p>
+## ⚔️ Core Abilities
+
+• Architect scalable REST systems (Node.js + Express)  
+• Design relational data structures (60+ schema models)  
+• Build ETL & reconciliation pipelines (Python + SQL)  
+• Engineer financial settlement logic  
+• Deploy multi-tenant platforms in cloud environments  
+• Integrate AI-assisted analytics engines  
 
 ---
 
-## ⚙️ Core Engineering
-
-- Scalable REST platforms (Node.js + Express)  
-- Relational schema design (60+ models)  
-- ETL & reconciliation pipelines (Python + SQL)  
-- Multi-tenant architectures  
-- Financial settlement engines  
-- AI-assisted analytics systems  
-
----
-
-## 🔌 Third-Party Integrations
-
-- GPS / Telemetry APIs (Intangles)  
-- WhatsApp Business API (automated messaging & alerts)  
-- Payment Gateway integrations (transaction state + reconciliation)  
-- Webhook-driven external orchestration  
-- Gemini API & DeepSeek  
-
-Production systems don’t operate in isolation. They coordinate.
-
----
-
-## ☁️ Stack
+## 🧠 Active Skill Tree
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,docker,aws,azure,gcp,linux,githubactions" />
@@ -47,26 +37,33 @@ Production systems don’t operate in isolation. They coordinate.
 
 ---
 
-## 🚛 Current Build — MoveAI
+## 🏯 Current Arc: MoveAI
 
-Multi-tenant logistics analytics platform featuring:
+A logistics analytics platform where:
 
-Telemetry ingestion → Driver settlement → Financial reconciliation → AI-powered querying
+Telemetry → Structured Data → Financial Logic → Insight
+
+High-frequency ingestion.  
+Driver settlements.  
+Batch processors.  
+AI-powered querying.  
+
+Production-ready. Battle-tested.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 System Metrics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavmahindru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
 
 <p align="center">
-“Engineer for failure. Design for scale. Let data tell the truth.”
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
+“Summoned to build systems that survive chaos.”
 </p>
