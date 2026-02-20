@@ -58,8 +58,11 @@ Clarity beats panic.
 </table>
 
 ## GitHub Analytics
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavmahindru&theme=tokyonight&hide_border=true&background=00000000" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavmahindru&theme=radical" alt="Vaibhav's Activity Graph" />
 </p>
 
 ## Engineering Snapshot
